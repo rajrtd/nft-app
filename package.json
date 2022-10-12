@@ -1,7 +1,7 @@
 {
-  "name": "eth-marketplace",
+  "name": "art",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
+  "description": "Maori Art is being put onto a blockchain",
   "author": "Raj",
   "dependencies": {
     "babel-polyfill": "6.26.0",
